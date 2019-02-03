@@ -1,2 +1,5 @@
 # hello-world
-This is my first repository :)
+
+Hello there!
+
+Mariana here :) I'm studying data science @ simplon.co!
